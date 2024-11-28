@@ -59,11 +59,3 @@ Apaixonado por tecnologia, programação e soluções criativas. Aqui você enco
 > 💡 **Dica:** Certifique-se de substituir **`SEU_USUARIO`** pelo seu nome de usuário no GitHub.
 
 ---
-
-### Como Fazer com que Apareça no seu Perfil:
-1. Crie ou acesse o repositório com o mesmo nome do seu usuário.
-   - Exemplo: Se seu usuário for `olvkivitor`, o repositório deve ser chamado `olvkivitor`.
-2. No repositório, crie ou edite o arquivo `README.md` e cole o código acima.
-3. Salve as alterações e veja o README aparecer no seu perfil.
-
-Se quiser mais customizações ou ajuda para melhorar ainda mais, só avisar! 🚀
